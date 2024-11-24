@@ -1,4 +1,4 @@
-# 👋 Hello, world! I’m Tripti Singh (@TriptiGitRepo)
+# 👋 Hello, World! I’m Tripti Singh (@TriptiGitRepo)
 
 ## 📌 **About Me:**  
 - Experienced QA professional with over a decade of expertise in Manual and Automation Testing.  
